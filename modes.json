@@ -3,15 +3,15 @@
     {
       "id": "builtin-gold",
       "nameFa": "طلا",
-      "nameEn": "test",
+      "nameEn": "Gold",
       "sessions": "none",
       "ranges": "all",
       "timepoints": "all"
     },
     {
       "id": "builtin-dowjones",
-      "nameFa": "داوجوووونز",
-      "nameEn": "Dooow Jones",
+      "nameFa": "داوجونز",
+      "nameEn": "Dow Jones",
       "sessions": "none",
       "ranges": [
         "r08",
