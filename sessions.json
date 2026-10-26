@@ -5,14 +5,14 @@
       "nameFa": "NZX - ولینگتون",
       "abbr": "NZX - WELLINGTON",
       "start": "21:00",
-      "end": "04:00"
+      "end": "03:45"
     },
     {
       "id": "asx",
       "nameFa": "ASX - سیدنی",
       "abbr": "ASX - SYDNEY",
-      "start": "00:00",
-      "end": "06:00"
+      "start": "23:00",
+      "end": "05:00"
     },
     {
       "id": "jpx",
@@ -54,14 +54,14 @@
       "nameFa": "DFM - دبی",
       "abbr": "DFM - DUBAI",
       "start": "06:00",
-      "end": "10:00"
+      "end": "10:45"
     },
     {
       "id": "moex",
       "nameFa": "MOEX - مسکو",
       "abbr": "MOEX - MOSCOW",
-      "start": "07:00",
-      "end": "15:40"
+      "start": "06:45",
+      "end": "15:45"
     },
     {
       "id": "jse",
@@ -75,7 +75,7 @@
       "nameFa": "Tadawul - ریاض",
       "abbr": "TADAWUL - RIYADH",
       "start": "07:00",
-      "end": "12:00"
+      "end": "15:00"
     },
     {
       "id": "lse",
@@ -109,22 +109,22 @@
       "id": "nyse",
       "nameFa": "NYSE/NASDAQ - نیویورک",
       "abbr": "NYSE NASDAQ - NEW YORK",
-      "start": "14:30",
-      "end": "21:00"
+      "start": "13:30",
+      "end": "20:00"
     },
     {
       "id": "tsx",
       "nameFa": "TSX - تورنتو",
       "abbr": "TSX - TORONTO",
-      "start": "14:30",
-      "end": "21:00"
+      "start": "13:30",
+      "end": "20:00"
     },
     {
       "id": "chx",
       "nameFa": "NYSE - شیکاگو",
       "abbr": "NYSE - CHICAGO",
-      "start": "14:30",
-      "end": "21:00"
+      "start": "13:30",
+      "end": "20:00"
     }
   ]
 }
