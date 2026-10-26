@@ -1,0 +1,130 @@
+{
+  "sessions": [
+    {
+      "id": "nzx",
+      "nameFa": "NZX - ولینگتون",
+      "abbr": "NZX - WELLINGTON",
+      "start": "21:00",
+      "end": "04:00"
+    },
+    {
+      "id": "asx",
+      "nameFa": "ASX - سیدنی",
+      "abbr": "ASX - SYDNEY",
+      "start": "00:00",
+      "end": "06:00"
+    },
+    {
+      "id": "jpx",
+      "nameFa": "JPX - توکیو",
+      "abbr": "JPX - TOKYO",
+      "start": "00:00",
+      "end": "06:00"
+    },
+    {
+      "id": "sgx",
+      "nameFa": "SGX - سنگاپور",
+      "abbr": "SGX - SINGAPORE",
+      "start": "01:00",
+      "end": "09:00"
+    },
+    {
+      "id": "hkex",
+      "nameFa": "HKEX - هنگ‌کنگ",
+      "abbr": "HKEX - HONG KONG",
+      "start": "01:30",
+      "end": "08:00"
+    },
+    {
+      "id": "sse",
+      "nameFa": "SSE - شانگهای",
+      "abbr": "SSE - SHANGHAI",
+      "start": "01:30",
+      "end": "07:00"
+    },
+    {
+      "id": "nse",
+      "nameFa": "NSE - بمبئی",
+      "abbr": "NSE - MUMBAI",
+      "start": "03:45",
+      "end": "10:00"
+    },
+    {
+      "id": "dfm",
+      "nameFa": "DFM - دبی",
+      "abbr": "DFM - DUBAI",
+      "start": "06:00",
+      "end": "10:00"
+    },
+    {
+      "id": "moex",
+      "nameFa": "MOEX - مسکو",
+      "abbr": "MOEX - MOSCOW",
+      "start": "07:00",
+      "end": "15:40"
+    },
+    {
+      "id": "jse",
+      "nameFa": "JSE - ژوهانسبورگ",
+      "abbr": "JSE - JOHANNESBURG",
+      "start": "07:00",
+      "end": "15:00"
+    },
+    {
+      "id": "tadawul",
+      "nameFa": "Tadawul - ریاض",
+      "abbr": "TADAWUL - RIYADH",
+      "start": "07:00",
+      "end": "12:00"
+    },
+    {
+      "id": "lse",
+      "nameFa": "LSE - لندن",
+      "abbr": "LSE - LONDON",
+      "start": "08:00",
+      "end": "16:30"
+    },
+    {
+      "id": "six",
+      "nameFa": "SIX - زوریخ",
+      "abbr": "SIX - ZURICH",
+      "start": "08:00",
+      "end": "16:30"
+    },
+    {
+      "id": "fwb",
+      "nameFa": "FWB - فرانکفورت",
+      "abbr": "FWB - FRANKFURT",
+      "start": "08:00",
+      "end": "16:30"
+    },
+    {
+      "id": "bovespa",
+      "nameFa": "BOVESPA - سائوپائولو",
+      "abbr": "BM&FBOVESPA - SAO PAULO",
+      "start": "13:00",
+      "end": "20:00"
+    },
+    {
+      "id": "nyse",
+      "nameFa": "NYSE/NASDAQ - نیویورک",
+      "abbr": "NYSE NASDAQ - NEW YORK",
+      "start": "14:30",
+      "end": "21:00"
+    },
+    {
+      "id": "tsx",
+      "nameFa": "TSX - تورنتو",
+      "abbr": "TSX - TORONTO",
+      "start": "14:30",
+      "end": "21:00"
+    },
+    {
+      "id": "chx",
+      "nameFa": "NYSE - شیکاگو",
+      "abbr": "NYSE - CHICAGO",
+      "start": "14:30",
+      "end": "21:00"
+    }
+  ]
+}

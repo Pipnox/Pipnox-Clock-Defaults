@@ -1,0 +1,49 @@
+{
+  "timepoints": [
+    {
+      "id": "tp0",
+      "time": "03:00",
+      "offset": 3
+    },
+    {
+      "id": "tp1",
+      "time": "04:00",
+      "offset": 3
+    },
+    {
+      "id": "tp2",
+      "time": "08:00",
+      "offset": 3
+    },
+    {
+      "id": "tp3",
+      "time": "09:00",
+      "offset": 3
+    },
+    {
+      "id": "tp4",
+      "time": "10:00",
+      "offset": 3
+    },
+    {
+      "id": "tp5",
+      "time": "16:30",
+      "offset": 3
+    },
+    {
+      "id": "tp6",
+      "time": "18:00",
+      "offset": 3
+    },
+    {
+      "id": "tp7",
+      "time": "20:00",
+      "offset": 3
+    },
+    {
+      "id": "tp8",
+      "time": "23:00",
+      "offset": 3
+    }
+  ]
+}

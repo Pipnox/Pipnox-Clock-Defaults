@@ -1,0 +1,37 @@
+{
+  "modes": [
+    {
+      "id": "builtin-gold",
+      "nameFa": "طلا",
+      "nameEn": "Gold",
+      "sessions": "none",
+      "ranges": "all",
+      "timepoints": "all"
+    },
+    {
+      "id": "builtin-dowjones",
+      "nameFa": "داوجونز",
+      "nameEn": "Dow Jones",
+      "sessions": "none",
+      "ranges": [
+        "r08",
+        "r09",
+        "r10"
+      ],
+      "timepoints": [
+        "tp5",
+        "tp6",
+        "tp7",
+        "tp8"
+      ]
+    },
+    {
+      "id": "builtin-sessions",
+      "nameFa": "سشن‌ها",
+      "nameEn": "Sessions",
+      "sessions": "all",
+      "ranges": "none",
+      "timepoints": "none"
+    }
+  ]
+}

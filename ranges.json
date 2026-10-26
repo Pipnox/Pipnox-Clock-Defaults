@@ -1,0 +1,92 @@
+{
+  "ranges": [
+    {
+      "id": "r01",
+      "start": "01:00",
+      "end": "02:30",
+      "color": "#525869",
+      "label": "C",
+      "offset": 3
+    },
+    {
+      "id": "r02",
+      "start": "02:30",
+      "end": "03:00",
+      "color": "#00b2be",
+      "label": "A",
+      "offset": 3
+    },
+    {
+      "id": "r03",
+      "start": "03:00",
+      "end": "07:00",
+      "color": "#347864",
+      "label": "B",
+      "offset": 3
+    },
+    {
+      "id": "r04",
+      "start": "07:00",
+      "end": "10:00",
+      "color": "#807434",
+      "label": "B",
+      "offset": 3
+    },
+    {
+      "id": "r05",
+      "start": "10:00",
+      "end": "13:00",
+      "color": "#ffb22c",
+      "label": "A",
+      "offset": 3
+    },
+    {
+      "id": "r06",
+      "start": "13:00",
+      "end": "15:30",
+      "color": "#62584a",
+      "label": "C",
+      "offset": 3
+    },
+    {
+      "id": "r07",
+      "start": "15:30",
+      "end": "16:30",
+      "color": "#ec6e3c",
+      "label": "A",
+      "offset": 3
+    },
+    {
+      "id": "r08",
+      "start": "16:30",
+      "end": "18:00",
+      "color": "#f44660",
+      "label": "A",
+      "offset": 3
+    },
+    {
+      "id": "r09",
+      "start": "18:00",
+      "end": "21:00",
+      "color": "#4a86e0",
+      "label": "B",
+      "offset": 3
+    },
+    {
+      "id": "r10",
+      "start": "21:00",
+      "end": "23:00",
+      "color": "#7660d0",
+      "label": "B",
+      "offset": 3
+    },
+    {
+      "id": "r11",
+      "start": "23:00",
+      "end": "00:00",
+      "color": "#60427c",
+      "label": "C",
+      "offset": 3
+    }
+  ]
+}
