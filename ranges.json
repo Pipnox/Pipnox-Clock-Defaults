@@ -87,6 +87,15 @@
       "color": "#60427c",
       "label": "C",
       "offset": 3
+    },
+    {
+      "id": "r12",
+      "start": "00:00",
+      "end": "01:00",
+      "color": "#7660d0",
+      "label": "Test",
+      "offset": 3
+      
     }
   ]
 }
