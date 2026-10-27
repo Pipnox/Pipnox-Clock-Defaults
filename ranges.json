@@ -43,38 +43,38 @@
     {
       "id": "r06",
       "start": "14:00",
-      "end": "16:30",
+      "end": "15:30",
       "color": "#62584a",
       "label": "C",
       "offset": 3
     },
     {
       "id": "r07",
-      "start": "16:30",
-      "end": "17:30",
+      "start": "15:30",
+      "end": "16:30",
       "color": "#ec6e3c",
       "label": "A",
       "offset": 3
     },
     {
       "id": "r08",
-      "start": "17:30",
-      "end": "19:00",
+      "start": "16:30",
+      "end": "18:00",
       "color": "#f44660",
       "label": "A",
       "offset": 3
     },
     {
       "id": "r09",
-      "start": "19:00",
-      "end": "22:00",
+      "start": "18:00",
+      "end": "21:00",
       "color": "#4a86e0",
       "label": "B",
       "offset": 3
     },
     {
       "id": "r10",
-      "start": "22:00",
+      "start": "21:00",
       "end": "23:00",
       "color": "#7660d0",
       "label": "B",
