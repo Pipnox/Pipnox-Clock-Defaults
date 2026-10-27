@@ -26,17 +26,17 @@
       "offset": 3
     },
     {
-      "id": "tp5",
+      "id": "tp10",
       "time": "10:00",
       "offset": 3
     },
     {
-      "id": "tp6",
+      "id": "tp12",
       "time": "11:00",
       "offset": 3
     },
     {
-      "id": "tp7",
+      "id": "tp13",
       "time": "14:00",
       "offset": 3
     },
@@ -57,7 +57,7 @@
       "offset": 3
     },
     {
-      "id": "tp10",
+      "id": "tp5",
       "time": "18:00",
       "offset": 3
     },
@@ -67,12 +67,12 @@
       "offset": 3
     },
     {
-      "id": "tp12",
+      "id": "tp6",
       "time": "21:00",
       "offset": 3
     },
     {
-      "id": "tp13",
+      "id": "tp7",
       "time": "23:00",
       "offset": 3
     }
